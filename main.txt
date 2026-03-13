@@ -2,4 +2,6 @@ ini dari docker container gw!
 
 ini diedit dari windows powershell gw!
 
-keedit di powershell (ngedit di branch)
+keedit di powershell awokawokawk (ngedit di branch)
+
+ini line baru dari branch
