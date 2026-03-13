@@ -1,3 +1,5 @@
 ini dari docker container gw!
 
 ini diedit dari windows powershell gw!
+
+keedit di powershell
